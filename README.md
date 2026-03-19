@@ -150,15 +150,10 @@ The project processes 1500 samples to ensure compatibility with laptop environme
 ✔ Modular pipeline architecture
 
 ## Output Example
-Job Role: Data Analyst
-
-Job Fit Score: 75/100
-
-Explanation:
-The candidate demonstrates strong experience in Python, data analysis, and visualization tools such as Tableau. The resume highlights relevant analytical projects and familiarity with machine learning techniques. However, the candidate lacks explicit experience in advanced business intelligence tools required for the role. Overall, the candidate shows a strong alignment with the core analytical skills required for the job.
-## Future Improvements
-
-Named Entity Recognition for skill extraction
+ <img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/fb55ef16-cbe4-4677-88b8-9a3f7b3978dd" />
+<img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/45948e4a-4313-42ec-b36d-d20896deee4a" />
+<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/1adb8f83-e641-46e7-90d9-b0c7ea96c90c" />
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a116b388-3d8b-4411-8af6-0f176a1b4a8a" />
 
 Resume ranking system
 
