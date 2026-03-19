@@ -73,6 +73,7 @@ LLM Reasoning
         ▼
 Job Fit Score + Explanation
 ## Project Folder Structure
+```
 project_root
 │
 ├── app
@@ -117,6 +118,7 @@ project_root
 │
 ├── README.md
 └── requirements.txt
+```
 ## Technologies Used
 Category	Tools
 Programming	Python
